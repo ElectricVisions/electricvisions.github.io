@@ -3,6 +3,7 @@ title: About
 created: 2018-04-02
 updated: 2023-10-24
 permalink: /about/
+layout: post
 tags: about game
 ---
 

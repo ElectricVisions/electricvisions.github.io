@@ -4,6 +4,6 @@ mkShell {
   name = "ruby";
   packages = [
     ruby_3_2
-    jekyll
+    rubyPackages_3_2.jekyll
   ];
 }
